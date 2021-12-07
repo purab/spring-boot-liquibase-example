@@ -10,3 +10,6 @@ run project as a spring boot project.
 
 you can find changelog/migration files under 
 src/main/resources/db/changelog/changelog-master.xml
+
+## Docs:
+https://docs.liquibase.com/tools-integrations/springboot/using-springboot-with-maven.html
